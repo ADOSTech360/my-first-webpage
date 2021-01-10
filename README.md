@@ -6,14 +6,14 @@
 
 <ul> HTML</ul>
 
-<h1> Description </h1>
+<h2> Description </h2>
 
 <p>This site is my first website using created using HTML5. It lists a few of my favorite things. <p>
 
 <h2> Setup/Installation Requirements </h2>
 <p> Clone repository to desktop </p>
 
-<h2> Known Bugs <h2>
+<h2> Known Bugs </h2>
 <ul> No known bugs </ul>
 
 <h2> License </h2>
